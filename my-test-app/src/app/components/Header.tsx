@@ -16,6 +16,7 @@ const Header = () => {
                 <Link href="/code/repos">Code</Link>
             </div>
         </div>
+        <hr />
     </header>
     </>
   )

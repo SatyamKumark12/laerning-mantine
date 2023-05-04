@@ -1,5 +1,5 @@
 {
-  "name": "my-test-app",
+  "name": "my-next-mantine-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -29,8 +29,8 @@
     "@tiptap/react": "^2.0.3",
     "@tiptap/starter-kit": "^2.0.3",
     "@types/node": "18.16.3",
-    "@types/react": "18.2.0",
-    "@types/react-dom": "18.2.1",
+    "@types/react": "18.2.4",
+    "@types/react-dom": "18.2.3",
     "autoprefixer": "10.4.14",
     "dayjs": "^1.11.7",
     "embla-carousel-react": "^7.1.0",
@@ -40,7 +40,6 @@
     "postcss": "8.4.23",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "react-icons": "^4.8.0",
     "tailwindcss": "3.3.2",
     "typescript": "5.0.4"
   }

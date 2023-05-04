@@ -7,13 +7,13 @@ const HomePage = () => {
     <h1 className='text-3xl'>Learning Next13</h1>
     <ul>
       <li>
-        <Link href="/">Home</Link>
+        <Link href="/" className='ml-5'>Home</Link>
       </li>
       <li>
-        <Link href="/about">About</Link>
+        <Link href="/about" className='ml-5'>About</Link>
       </li>
       <li>
-        <Link href="/about/team">Team</Link>
+        <Link href="/about/team" className='ml-5'>Team</Link>
       </li>
     </ul>
     </>
